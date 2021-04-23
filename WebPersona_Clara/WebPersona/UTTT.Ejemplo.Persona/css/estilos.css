@@ -1,0 +1,33 @@
+﻿h2{
+
+    text-align: center;
+}
+h1 {
+    font: bold 32px Times;
+    color: #666;
+    text-align: center;
+    padding: 20px 0;
+}
+.contenedor {
+    background: #76E7AF;
+    width: 50%;
+    margin-top: 13%;
+    margin-left: 385px;
+    border: 15px;
+   
+   
+}
+.cuadros{
+    position:relative;
+    top:30px;
+    left:50px
+    
+}
+.especial {
+    position: relative;
+    top: 30px;
+    left: 1px
+}
+.boton{
+    height:19px;
+}
